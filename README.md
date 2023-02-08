@@ -24,5 +24,6 @@ val convexHull = ConvexHull.compute(points)
 // The result is a list of Points that define the vertices of the convex hull
 println(convexHull)
 
-## Contributing
+
+##Contributing
 We welcome contributions to improve this implementation of the Convex Hull algorithm in Kotlin. Please submit a pull request if you have any changes to suggest.

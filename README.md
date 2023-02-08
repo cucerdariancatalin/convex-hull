@@ -10,8 +10,8 @@ This repository contains an implementation of the Convex Hull algorithm in Kotli
 Clone this repository and build the project using Gradle:
 gradle build
 
-scss
-Copy code
+## Contributing
+We welcome contributions to improve this implementation of the Convex Hull algorithm in Kotlin. Please submit a pull request if you have any changes to suggest.
 
 ## Usage
 ```kotlin
@@ -23,7 +23,3 @@ val convexHull = ConvexHull.compute(points)
 
 // The result is a list of Points that define the vertices of the convex hull
 println(convexHull)
-
-
-## Contributing
-We welcome contributions to improve this implementation of the Convex Hull algorithm in Kotlin. Please submit a pull request if you have any changes to suggest.
